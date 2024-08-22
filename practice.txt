@@ -19,9 +19,23 @@ sddsfsdfsfd
 
 
 연습이에요
+<<<<<<< HEAD
+
+연습입니다.,
+
+
+asdasdasdasd
+=======
 asdasdasds
 최종창민 허정현
 
+<<<<<<< HEAD
 올려라올려올려라올려잉
 
 ihj9ih98h9
+=======
+최종창민 허정현2
+>>>>>>> ba8c1d451214634b4c562a6ccbfe7d69054d925c
+>>>>>>> 1a70e43a0130635d711cf94cfd6d8f0fd6032093
+
+asdasda
