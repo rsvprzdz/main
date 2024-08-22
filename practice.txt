@@ -19,9 +19,49 @@ sddsfsdfsfd
 
 
 연습이에요
+<<<<<<< HEAD
+
+연습입니다.,
+
+
+asdasdasdasd
+=======
 asdasdasds
 최종창민 허정현
 
+<<<<<<< HEAD
 
 
 힣 
+=======
+<<<<<<< HEAD
+올려라올려올려라올려잉
+
+ihj9ih98h9
+=======
+최종창민 허정현2
+<<<<<<< HEAD
+
+
+
+
+이번에야말로된다
+=======
+>>>>>>> ba8c1d451214634b4c562a6ccbfe7d69054d925c
+>>>>>>> 1a70e43a0130635d711cf94cfd6d8f0fd6032093
+
+<<<<<<< HEAD
+
+멋진 허완
+=======
+asdasda
+
+
+허정현
+
+ㅋㅋㅋㅋ
+>>>>>>> 8cda38cd5b513de2da4a8675aefbfa83b92ad6ec
+
+마지막으로해본다
+>>>>>>> 13a1630bdaa2655bfad068c69496bec0c5bdaa78
+glglgglglgl
