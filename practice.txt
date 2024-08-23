@@ -82,6 +82,14 @@ glglgglglgl
 최종군찐막찐막찐막
 
 asdasdasdasdasdasdasdas
+<<<<<<< HEAD
 >>>>>>> f0db10962fa25530d716efe46a00a15e411dfd41
 
 test 완 이번에야말로
+=======
+
+마지막으로 해본다... 
+
+최종창민 허정현 
+
+>>>>>>> 1b2a716d74e932d445f1e67476506e84ae8b9479
