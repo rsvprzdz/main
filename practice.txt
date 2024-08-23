@@ -15,6 +15,12 @@ sddsfsdfsfd
 
 제이름은 ooo입니다.
 
+<<<<<<< HEAD
+빠랑~빠랑~빠랑~ 바바~바바~빠삐코~
+
+
+이거 다시해봐야하나
+=======
 그래용..ㅋ
 
 
@@ -65,3 +71,15 @@ asdasda
 마지막으로해본다
 >>>>>>> 13a1630bdaa2655bfad068c69496bec0c5bdaa78
 glglgglglgl
+
+테스트 브랜치
+테스트 브랜치 최종군이 남깁니다 
+<<<<<<< HEAD
+>>>>>>> testbranch
+최종군최종찐막 
+=======
+
+최종군찐막찐막찐막
+
+asdasdasdasdasdasdasdas
+>>>>>>> f0db10962fa25530d716efe46a00a15e411dfd41
