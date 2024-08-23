@@ -74,5 +74,12 @@ glglgglglgl
 
 테스트 브랜치
 테스트 브랜치 최종군이 남깁니다 
+<<<<<<< HEAD
 >>>>>>> testbranch
 최종군최종찐막 
+=======
+
+최종군찐막찐막찐막
+
+asdasdasdasdasdasdasdas
+>>>>>>> f0db10962fa25530d716efe46a00a15e411dfd41
