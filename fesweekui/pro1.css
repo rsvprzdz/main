@@ -1,0 +1,204 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+a{
+    text-decoration-line: none;
+}
+#main_pro{
+    display: flex;
+    background-color: #88D66C;
+}
+#pic1{
+    margin-right: 100px;
+}
+#head{
+
+    display: flex;
+    width: 100%;
+}
+#head1, #head2, #head3{
+    font-size: 25px;
+    margin-top: auto;
+    margin-bottom: auto;
+    display: flex;
+}
+
+#main_ti{
+    margin-top: auto;
+    margin-bottom: auto;
+    color: white;
+    margin-right: 30px;
+}
+#search{
+    width: 100px; height: 20px;
+    border: none;
+    border-radius: 10px 0px 0px 10px;
+}
+#btn-1{
+    border: 1px solid white;
+    border-radius: 0px 10px 10px 0px;
+    color: white;
+    background-color: #88D66C;
+    cursor: pointer;
+}
+#btn-2{
+    border: none;
+    color: white;
+    background-color: #88D66C;
+    cursor: pointer;
+}
+#part1{
+    color: yellow;
+    text-align: center;
+    margin-top: 50px;
+}
+#write {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 10px;
+    width: 100px;
+    height: 40px;
+    background-color: yellow;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    
+}
+
+#second{
+    justify-content: space-between;
+    display: flex;
+    background-color: lightgreen;
+    margin-top: 20px;
+    color: white;
+    margin-bottom: 20px;
+}
+#second-1{
+    margin-left: 20px;
+}
+#docu{
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    border: 1px;
+    text-align: center;
+}
+
+#bottom {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#bottom-search1{
+    border: 2px solid #88D66C;
+    width: 20em;
+    height: 4em;
+    border-radius: 10px 0px 0px 10px;
+}
+#bottom-search2{
+    bottom: 0px;
+    border: 2px solid #88D66C;
+    width: 5em;
+    height: 4.4em;
+    border-radius: 0px 10px 10px 0px;
+    cursor: pointer;
+}
+
+#second-2{
+    display: flex;
+}
+#img3{
+    width: 100px;
+    height: 25px;
+}
+
+/* 페이지 네이션 스타일 */
+/* 페이지 네이션 스타일 */
+#pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}
+
+#page-number {
+    font-size: 20px;
+    margin: 0 10px; /* 숫자 좌우로 공간 확보 */
+    display: inline-block; /* 숫자와 버튼이 한 줄에 있도록 설정 */
+}
+
+.pagination-button {
+    background-color: #88D66C;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+    display: inline-block; /* 버튼이 숫자와 한 줄에 있도록 설정 */
+}
+
+.pagination-button:hover {
+    background-color: #76c060;
+}
+
+
+#underbottom {
+    display: flex;
+    background-color: #88D66C;
+    color: white;
+    bottom: 0; /* Stick to the bottom of the page */
+    width: 100%; /* Full width */
+    padding: 10px; /* Optional: Add padding for some space inside the element */
+    align-items: center; /* Optional: Centers content vertically */
+}
+
+#ggg{
+    margin-left: 30px;
+    margin-right: 20px;
+}
+#kkk{
+    margin-top: 28px;
+}
+.carousel {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    width: 400px; /* Adjust as necessary */
+    height: 200px; /* Adjust as necessary */
+    overflow: hidden;
+}
+
+.slide {
+    display: none;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.slide.active {
+    display: block;
+    opacity: 1;
+}
+.arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.left-arrow {
+    left: 0px;
+}
+.right-arrow {
+    right: 0px;
+}
+#imgg{
+    padding: auto;
+    width: 400px; height: 200px;
+}

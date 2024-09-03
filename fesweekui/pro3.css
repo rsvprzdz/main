@@ -1,0 +1,74 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+a{
+    text-decoration-line: none;
+}
+#main_pro{
+    display: flex;
+    background-color: #88D66C;
+}
+#pic1{
+    margin-right: 100px;
+}
+#head{
+
+    display: flex;
+    width: 100%;
+}
+#head1, #head2, #head3{
+    font-size: 25px;
+    margin-top: auto;
+    margin-bottom: auto;
+    display: flex;
+}
+#main_ti{
+    margin-top: auto;
+    margin-bottom: auto;
+    color: white;
+    margin-right: 30px;
+}
+#search{
+    width: 100px; height: 20px;
+    border: none;
+    border-radius: 10px 0px 0px 10px;
+}
+#btn-1{
+    border: 1px solid white;
+    border-radius: 0px 10px 10px 0px;
+    color: white;
+    background-color: #88D66C;
+    cursor: pointer;
+}
+#btn-2{
+    border: none;
+    color: white;
+    background-color: #88D66C;
+    cursor: pointer;
+}
+
+
+
+
+
+
+#underbottom {
+    display: flex;
+    background-color: #88D66C;
+    color: white;
+    position: fixed; /* Changed from relative to fixed */
+    bottom: 0; /* Stick to the bottom of the page */
+    width: 100%; /* Full width */
+    padding: 10px; /* Optional: Add padding for some space inside the element */
+    align-items: center; /* Optional: Centers content vertically */
+}
+
+#ggg{
+    margin-left: 30px;
+    margin-right: 20px;
+}
+#kkk{
+    margin-top: 28px;
+}
