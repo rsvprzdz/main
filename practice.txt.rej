@@ -1,7 +1,12 @@
 diff a/practice.txt b/practice.txt	(rejected hunks)
-@@ -75,3 +75,4 @@
- 테스트 브랜치
- 테스트 브랜치 최종군이 남깁니다 
- >>>>>>> testbranch
-+최종군최종찐막 
+@@ -113,4 +113,7 @@
+ 
+ 허완의 변경사항 종군님꺼로 적용 테스트 (패치 테스트)
+ 
+-허완의 변경사항 메인으로 적용 테스트 (패치안쓰고)
+\ No newline at end of file
++허완의 변경사항 메인으로 적용 테스트 (패치안쓰고)
++
++
++안녕하세요 최종군입니다 
 \ No newline at end of file
