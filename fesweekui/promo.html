@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>축제 홍보 게시판</title>
+    <link rel="stylesheet" href="pro1.css">
+    <script src="proto.js"></script>
+</head>
+<body>
+    <div id="main_pro">
+        <div id="head">
+            <div id="head1">
+                <img src="img/제목 없음.png" id="pic1">
+                <a href="#" id="main_ti">소개</a>
+                <a href="#" id="main_ti">축제정보</a>
+                <a href="#" id="main_ti">축제홍보</a>
+            </div>
+            <div id="head2">
+                <input type="text" id="search">
+                <button id="btn-1">검색</button>
+                <button id="btn-2">로그인</button>
+            </div>
+        </div>
+    </div>
+    <h2 id="part1">###님이 홍보한</h2>
+    
+    <div class="carousel">
+        <button class="arrow left-arrow" onclick="prevSlide()">&#9664;</button>
+        <div class="slides">
+            <div class="slide active"><a href="#"><img src="img/축제1.jfif" alt="Image 1" id="imgg"></a></div>
+            <div class="slide"><a href="#"><img src="img/축제2.jfif" alt="Image 2" id="imgg"></a></div>
+            <div class="slide"><a href="#"><img src="img/축제3.jfif" alt="Image 3" id="imgg"></a></div>
+            <div class="slide"><a href="#"><img src="img/축제4.jfif" alt="Image 4" id="imgg"></a></div>
+            <div class="slide"><a href="#"><img src="img/축제5.jfif" alt="Image 5" id="imgg"></a></div>
+        </div>
+        <button class="arrow right-arrow" onclick="nextSlide()">&#9654;</button>
+    </div>
+
+    <div id="second">
+        <h1 id="second-1">홍보 등록 게시판 - 이런 축제도 있어요</h1>
+        <div id="second-2">
+            <button id="write"><a href="writecheck.html">내 작성글 보기</a></button>
+            <button id="write"><a href="write.html">홍보글 등록</a></button>
+        </div>
+    </div>
+
+    <div>
+        <table id="docu" border="">
+            <tbody>
+                <tr>
+                    <th>번호</th>
+                    <th id="img3">이미지</th>
+                    <th>제목</th>
+                    <th>작성자</th>
+                    <th>작성일</th>
+                    <th>추천수</th>
+                    <th>조회수</th>
+                </tr>
+                <tr>
+                    <th>1.</th>
+                    <th id="img3"><img src="img/축제1.jfif" alt=""></th>
+                    <th>구리시 어쩌구 저쩌구</th>
+                    <th>허완</th>
+                    <th>2024-08-13</th>
+                    <th>18</th>
+                    <th>18</th>
+                </tr>
+                <tr>
+                    <th>2.</th>
+                    <th id="img3"><img src="img/축제2.jfif" alt=""></th>
+                    <th>서울시 어쩌구 저쩌구</th>
+                    <th>김인창</th>
+                    <th>2024-09-03</th>
+                    <th>18</th>
+                    <th>18</th>
+                </tr>
+                <tr>
+                    <th>3.</th>
+                    <th id="img3"><img src="img/축제3.jfif" alt=""></th>
+                    <th>서울시 동작구</th>
+                    <th>양민욱</th>
+                    <th>2024-09-02</th>
+                    <th>18</th>
+                    <th>18</th>
+                </tr>
+            </tbody>
+        </table>
+
+
+        
+
+    </div>
+    <div id="pagination">
+        <button class="arrow left-arrow" onclick="prevPage()">&#9664;</button>
+        <span id="page-number">1</span>
+        <button class="arrow right-arrow" onclick="nextPage()">&#9654;</button>
+    </div>
+    <div id="bottom">
+        <input type="text" id="bottom-search1">
+        <button id="bottom-search2">검색</button>
+    </div>
+
+    <div id="underbottom">
+        <h1 id="ggg">정보교육원 &copy;</h1>
+        <h2 id="kkk">찾아오시는 길 : 니가 알아서 잘 찾아서 오세요~</h2>
+    </div>
+
+    <script src="proto.js"></script>
+</body>
+</html>
